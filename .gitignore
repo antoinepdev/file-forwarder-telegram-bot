@@ -97,5 +97,3 @@ venv*
 
 # environment manager:
 .mise.toml
-.env.dev
-.env.prod
