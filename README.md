@@ -1,4 +1,4 @@
-# Telegram File Repeater Bot
+# Telegram File Forwarder Bot
 
 Este proyecto es un bot de Telegram desarrollado en Python utilizando la librería `pyTelegramBotAPI` (Telebot). El bot permite reenviar archivos a los usuarios mediante enlaces personalizados.
 
