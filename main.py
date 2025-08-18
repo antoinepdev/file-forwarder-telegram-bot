@@ -1,6 +1,11 @@
 from bot_config import bot, env_file
-import id_asigner
+
+
+
+import storage_group.file_listener
 import forwarder
+
+
 
 if __name__ == "__main__":
     if env_file == ".env": print("prod mode actived")
