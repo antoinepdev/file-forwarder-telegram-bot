@@ -7,7 +7,6 @@ from utils.functions.file_forwarder import file_forwarder
 @bot.message_handler(commands=["start"])
 def start(msg):
 
-    chat_id = msg.chat.id
     if msg.chat.type != "private":
         return
 
